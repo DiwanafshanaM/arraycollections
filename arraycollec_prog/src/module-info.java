@@ -1,0 +1,2 @@
+module arraycollec_prog {
+}
